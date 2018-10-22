@@ -1,5 +1,5 @@
   		     Back to Brynnlaw MOD for Baldur's Gate II
-				   Version 6
+				   Version 7
 			  A Pocket Plane Group Project
 			   http://www.pocketplane.net
 
@@ -201,6 +201,8 @@ WeiDU					http://www.weidu.org
 -------------------
 6. Version History
 -------------------
+Version 7
+- EET Compatibility
 
 Version 6
 - Chinese translation by Merzbau
