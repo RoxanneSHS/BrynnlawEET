@@ -6,8 +6,6 @@ README ~BackBrynnlaw/%LANGUAGE%/Readme-BackBrynnlaw.txt~ ~BackBrynnlaw/Readme-Ba
 
 ALWAYS
 
-  // Borrowed from Edwin Romance: convert strings to UTF-8 for BGEE/BG2EE
-  INCLUDE ~%MOD_FOLDER%/handle_charsets.tpa~
 ACTION_IF GAME_IS ~eet~ BEGIN
 
     OUTER_SET bg2_chapter = 12
